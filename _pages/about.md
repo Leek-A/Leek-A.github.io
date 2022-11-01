@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This a freshman updating Homepage on the web.
+This a freshman's updating Homepage on the web.
+
 My opensource projects and publications are coming soon.
 
 Education
